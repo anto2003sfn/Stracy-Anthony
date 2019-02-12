@@ -1,2 +1,2 @@
 # Stracy-Repo
-Hey i created my repository 
+Hadoop and Spark code maintenance
